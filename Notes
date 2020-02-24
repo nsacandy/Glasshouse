@@ -1,1 +1,24 @@
-It makes the most sense for this to be a web-based application. Possibly/Probably even start as just a web page. That IS how most review sites start. We need a large number of users to make the idea work, and also need to find these business. We even need to take pictures of the receipts and make an image matching thingy. As such, I should probably consider using JavaScript. Other possible languages are PHP, C#, Jquery... I'll have to do some research.
+Feb 19: It makes the most sense for this to be a web-based application. Possibly/Probably even start as just a web page. That IS how most review sites start. We need a large number of users to make the idea work, and also need to find these business. We even need to take pictures of the receipts and make an image matching thingy. As such, I should probably consider using JavaScript. Other possible languages are PHP, C#, Jquery... I'll have to do some research.
+
+Feb 20: I noticed yesterday that libreoffice has an option to start a new HTML document. Considering it isn't as CPU heavy as IntelliJ, I figured I'd give it a go. At first, it was frustrating. I kept putting in the tags, I'd open the page, and there were the tags. 
+Not opening the document correctly. 
+Ok, copy and paste this EXACTLY from W3 schools... still not working. 
+Ok, let's open it with a simple text editor... huh... 
+it has even MORE tags... What?
+OHHHHHH...
+
+Turns out libreOffice is more advanced than it seems. It has a frontend and backend editor built in that auto-imports the formatting of websites if you copy-paste them. By default, you're working on the front end (to maximize user-friendliness, I guess), and you can select to work on the backend as well. Now, will I be able to use PHP with this? We shall find out later...
+
+Hit a snag, apparently you have to open the HTML with LibreOffice, not LibreOffice Writer, or it gets fussy. Now I have to learn how to make buttons work. Will check out W3 tomorrow.
+
+Feb. 23
+Deleted front page. I was having trouble with LibreOffice. If I chose to view the page's HTML, it wouldn't allow me to switch back. Additionally, it was keeping me confined to a <div> for everything. I'm not sure why. If these problems persist, I may stop using LibreOffice.
+
+<ISSUES>
+Need to collect receipts for image recognition
+Have to build database of businesses and reviews
+Have to learn input validation for HTML
+Make buttons work
+
+<IDEAS>
+Make a "Credibility Score" for the user or post.
