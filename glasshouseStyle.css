@@ -1,0 +1,24 @@
+body{
+text-align: left;
+}
+
+.titleText{
+font-weight: bold;
+}
+
+*{
+font-family: "Courier New", Courier, monospace;
+}
+
+.leftCol{
+float: left;
+width: 33.3%;
+padding-left: 100px;
+padding-top:50px;
+}
+
+.rightCol{
+float: right;
+width: 33.3%;
+padding: 50px;
+}
