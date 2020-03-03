@@ -2,23 +2,23 @@
 <html>
 	<head>
 		<title>GlasshouseMainPage</title>
+		<link rel="stylesheet" type="text/css" href="glasshouseStyle.css">
 	</head>
 	
 	<body>
-		<h1 align="center">Glasshouse</h1>
-		<h3 align="center">A review site</h3>
+		<h1 class="titleText" align="center">Glasshouse</h1>
+		<h3 class="titleText" align="center">A review site</h3>
 
-		<form>
+		<form class="leftCol">
 			<label for="nameOfBusiness">Name of business</label><br>
 			<input type="text" id="nameOfBusiness" name="nameOfBusiness">
 			</input>
 		</form>
 
-		<form>
+		<form class="rightCol" action="submittedReview.html" method="post">
 			<label for="userReview">Write your review below</label><br>
-			<textarea id="userReview" rows="10" cols="30"></textarea>
- 			<button></button>
+				<textarea id="userReview" name="userReview" rows="10" cols="30"></textarea><br>
+			<input type="submit" value="Submit" />
 		</form>
-
 	</body>
 </html>
