@@ -17,6 +17,8 @@ Deleted front page. I was having trouble with LibreOffice. If I chose to view th
 Mar. 2
 Getting back in the saddle to fulfill my beeminder duties. House duties have been a pain lately, but that's no reason to shirk my responsibilities. I'll have to build a database to flesh out the review system. I'll try SQL, as it seems like it's an appropriate language for this type of thing.
 
+*A friend of mine recommended KVM slice servers. Apparently you need some sort of program or server to host the database. There's also a Google Cloud option I haven't looked at.
+
 <ISSUES>
 Need to collect receipts for image recognition
 Have to build database of businesses and reviews
