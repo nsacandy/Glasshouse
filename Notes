@@ -22,6 +22,9 @@ Getting back in the saddle to fulfill my beeminder duties. House duties have bee
 Mar. 4
 Downloded and installed postgreSQL. Didn't actually make any progress on the website, but considering that this took hours, it seemed fair to make a commit for it.
 
+Mar. 5
+Created and destroyed my first database using postgresql! So proud. I kept getting an error because the default user is "postgres." I thought it was just a convention, not what came installed in the program. Eventually I created and destroyed a database called "firstDB" using my "nicolas" name. Seems like that name is gone now, but hey! I know how to make it now!
+
 <ISSUES>
 Need to collect receipts for image recognition
 Have to build database of businesses and reviews
