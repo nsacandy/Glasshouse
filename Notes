@@ -26,7 +26,10 @@ Mar. 5
 Created and destroyed my first database using postgresql! So proud. I kept getting an error because the default user is "postgres." I thought it was just a convention, not what came installed in the program. Eventually I created and destroyed a database called "firstDB" using my "nicolas" name. Seems like that name is gone now, but hey! I know how to make it now!
 
 Mar. 14
-Started using AWS to get my server up and running. There are a ton of elements I didn't know I was missing that it seems will be supplied this way. Downloaded SQLWorkbench today, am still working to get it connected to my new database. 	
+Started using AWS to get my server up and running. There are a ton of elements I didn't know I was missing that it seems will be supplied this way. Downloaded SQLWorkbench today, am still working to get it connected to my new database.
+
+Mar. 15
+Still having trouble connecting to my new DB. Installed AWS rds cl today, oscillating between using that, the RDS console, pg4admin, and SQLWorkbench, unsure what my next step is. I'll have to keep testing to see what gives constructive feedback.
 
 <ISSUES>
 Need to collect receipts for image recognition
