@@ -31,10 +31,14 @@ Started using AWS to get my server up and running. There are a ton of elements I
 Mar. 15
 Still having trouble connecting to my new DB. Installed AWS rds cl today, oscillating between using that, the RDS console, pg4admin, and SQLWorkbench, unsure what my next step is. I'll have to keep testing to see what gives constructive feedback.
 
+Mar. 17
+Changed security protocols on a new database, still can't connect. Have to keep trying, I'll consult the other 6 pages I bookmarked.
+
 <ISSUES>
 Need to collect receipts for image recognition
 Have to build database of businesses and reviews
 Have to learn input validation for HTML
+Solve connectivity issues with AWS RDS
 Make buttons work
 
 <IDEAS>
