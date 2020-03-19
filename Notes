@@ -34,6 +34,11 @@ Still having trouble connecting to my new DB. Installed AWS rds cl today, oscill
 Mar. 17
 Changed security protocols on a new database, still can't connect. Have to keep trying, I'll consult the other 6 pages I bookmarked.
 
+Mar. 18
+I'm moving in a new direction now. I had been trying to connect to the database, but in doing so, I believe that I may have completely overlooked a very basic concept; I need a website hosted before I can attach a database to it. I already have the domain name, I just need to move the hosting to Amazon. This will be our next step.
+
+Looks like I'll need to download NPM and Node.js. I'll wait until tomorrow when I have real internet for downloading, as I don't have the capacity to easily download these.
+
 <ISSUES>
 Need to collect receipts for image recognition
 Have to build database of businesses and reviews
