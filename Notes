@@ -39,10 +39,14 @@ I'm moving in a new direction now. I had been trying to connect to the database,
 
 Looks like I'll need to download NPM and Node.js. I'll wait until tomorrow when I have real internet for downloading, as I don't have the capacity to easily download these.
 
+Mar. 20
+Downloaded npm and NODE.js. Npm was being a flibbertijibbet, so I had to do a bit of stack overflowing, remove some of this, add some of that, etc. I was getting many "not found errors," and even after fixing it, I was getting "ERR!" and "WARN", so I highly doubt everything will work as intended. My next step is adding some stuff to a text file. I've done this before via CLI, but only once, by putting in some commands and smacking the keyboard, making "a" parameter get added to an "sd" text file full of "f". I'll have to get reacquainted with it. Added the bookmark to my ongoing tings.
+
 <ISSUES>
 Need to collect receipts for image recognition
 Have to build database of businesses and reviews
 Have to learn input validation for HTML
+Attach db to my host website
 Solve connectivity issues with AWS RDS
 Make buttons work
 
