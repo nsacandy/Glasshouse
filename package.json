@@ -1,0 +1,19 @@
+{
+  "name": "init",
+  "version": "1.0.0",
+  "description": "A review app",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nsacandy/Glasshouse.git"
+  },
+  "author": "nsacandy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nsacandy/Glasshouse/issues"
+  },
+  "homepage": "https://github.com/nsacandy/Glasshouse#readme"
+}
