@@ -16,8 +16,8 @@
 				<option value="Sumo">
 				<option value="McDonald's">
 			</datalist>
-			<!-- <label for="nameOfBusiness">Name of business</label><br>
-			**<input type="text" id="nameOfBusiness" name="nameOfBusiness"></input> -->
+			<LABEL FOR="NAMEOFBUSINESS">NAME OF BUSINESS</LABEL><BR>
+			<INPUT TYPE="TEXT" ID="NAMEOFBUSINESS" NAME="NAMEOFBUSINESS"></INPUT>
 		</form>
 
 		<form class="rightCol" action="submittedReview.html" method="post">
@@ -25,5 +25,13 @@
 			<textarea id="userReview" name="userReview" rows="10" cols="30"></textarea><br>
 			<input type="submit" value="Submit" />
 		</form>
+
+		
+		<button class="leftCol" type="button"
+		onclick="document.getElementById('time').innerHTML = Date()">
+		What time is it?</button>
+		
+		<p id="time"></p>
+
 	</body>
 </html>
