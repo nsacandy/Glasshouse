@@ -48,6 +48,9 @@ Actually made some headway today by using the command "sudo npm init". That did.
 Mar. 30
 Added a button that displays time. Trying to get feet wet with JS. I'll try to add a new element every day, and eventually cut what I don't need.
 
+Mar. 31
+Linked an external script and tested it with a button. Took a bit of tinkering to get the output I was expecting, and even had to reduce my expectations to a slightly amped-up version of the lesson. The button works, though! I'm getting closer to writing my own DB.
+
 <ISSUES>
 Need to collect receipts for image recognition
 Have to build database of businesses and reviews

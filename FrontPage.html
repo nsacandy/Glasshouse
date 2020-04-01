@@ -23,15 +23,20 @@
 		<form class="rightCol" action="submittedReview.html" method="post">
 			<label for="userReview">Write your review below</label><br>
 			<textarea id="userReview" name="userReview" rows="10" cols="30"></textarea><br>
-			<input type="submit" value="Submit" />
+			<input type="button" value="Submit" onClick="assignCustomer()"/>
 		</form>
 
 		
 		<button class="leftCol" type="button"
 		onclick="document.getElementById('time').innerHTML = Date()">
 		What time is it?</button>
+
+		<button class="leftCol" type="button"
+		onclick="assignCustomer()">
+		Does button work?</button>
 		
 		<p id="time"></p>
-
+		<p id="userName">Bob</p>
+<script src="database.js"></script>
 	</body>
 </html>
