@@ -1,6 +1,6 @@
-var customer;
+let customer;
 
 function assignCustomer(){
-this.customer=document.getElementById('userName').innerHTML;
-window.alert(this.customer);
+this.customer=document.getElementById('username').innerHTML;
+document.getElementById
 }
