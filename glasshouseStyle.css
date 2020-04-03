@@ -1,13 +1,13 @@
 body{
-text-align: center;
-}
-
-.titleText{
-font-weight: bold;
+    text-align: center;
 }
 
 *{
-font-family: "Courier New", Courier, monospace;
+    font-family: "Courier New", Courier, monospace;
+}
+
+.titleText{
+    font-weight: bold;
 }
 
 .leftCol{

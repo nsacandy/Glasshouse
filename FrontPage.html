@@ -4,20 +4,19 @@
 		<title>GlasshouseMainPage</title>
 		<link rel="stylesheet" type="text/css" href="glasshouseStyle.css">
 	</head>
-	
+
 	<body>
 		<h1>Glasshouse</h1>
 		<h3 class="titleText">A review site</h3>
 
 		<form class="leftCol">
-			<input list="businesses">
 			<datalist id="businesses">
 				<option value="Fabiano's">
 				<option value="Sumo">
 				<option value="McDonald's">
 			</datalist>
-			<LABEL FOR="NAMEOFBUSINESS">NAME OF BUSINESS</LABEL><BR>
-			<INPUT TYPE="TEXT" ID="NAMEOFBUSINESS" NAME="NAMEOFBUSINESS"></INPUT>
+			<label for="nameOfBusiness">name of business</label><br>
+			<input type="text" id="nameOfBusiness" name="nameOfBusiness"/>
 		</form>
 
 		<form class="rightCol" action="submittedReview.html" method="post">
@@ -26,7 +25,7 @@
 			<input type="button" value="Submit" onClick="assignCustomer()"/>
 		</form>
 
-		
+
 		<button class="leftCol" type="button"
 		onclick="document.getElementById('time').innerHTML = Date()">
 		What time is it?</button>
@@ -34,7 +33,7 @@
 		<button class="leftCol" type="button"
 		onclick="assignCustomer()">
 		Does button work?</button>
-		
+
 		<p id="time"></p>
 		<p id="username">Bob</p>
 <script src="database.js"></script>
