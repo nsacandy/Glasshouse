@@ -57,13 +57,14 @@ Began using Webstorm and my new computer. I'm unsure on the current configuratio
 Apr. 3
 Spent the bulk of the day troubleshooting a keyboard shortcut.
 
+Apr. 4
+I think I'm about to hit a wall with what
+can be done without having my server and database set up.
+That's a good thing, though. I'm about to start breaking new
+ ground. Internet is being a pain, currently.
+
 <ISSUES>
-Need to collect receipts for image recognition
-Have to build database of businesses and reviews
-Have to learn input validation for HTML
-Attach db to my host website
-Solve connectivity issues with AWS RDS
-Make buttons work
+
 
 <IDEAS>
 Make a "Credibility Score" for the user or post.
