@@ -1,0 +1,8 @@
+#main-header{
+  font-size: 3rem;
+  color: #fff;
+  background: linear-gradient(135deg, rgba(255,255,255,0.2), rgba(255,255,255,0));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-shadow: 0 0 8px rgba(255,255,255,0.5);
+}

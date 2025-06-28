@@ -1,9 +1,10 @@
 import WriteReview from "./WriteReview";
+import './styles.css';
 
 function App() {
   return (
     <div>
-      <h1>Glasshouse</h1>
+      <h1 id="main-header">Glasshouse</h1>
       <p>Welcome to transparent reviews with proof of purchase.</p>
       <WriteReview />
       <p>Powered by Glasshouse</p>
